@@ -16,5 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-kharbache&theme=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-kharbache&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
