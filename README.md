@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ismail-kharbache
-- 👀 I am interested in Web Development
-- 🌱 I’m currently learningI  Web Development
-- 💞️ I’m looking to collaborate on  any kind of interesting projects
+hello i'm ismail kharbache 21 years old i'm a web developer and im a web designer and i'm skilled in css html ,javascript, and most front end technologies and also in seo techniques
 - 📫 How to reach me kharbache.ismail1@gmail.com || www.ismailkharbache.ml ||
 - ✉ facebook: https://www.facebook.com/ismail.kharabche/
 - Instagram:  https://www.instagram.com/kharbache_ismail1/
